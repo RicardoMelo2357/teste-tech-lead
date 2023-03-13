@@ -45,7 +45,7 @@ O sistema deverá também permitir a criação de um veículo. Onde seja possív
 * Criar viagem 
 Para se criar uma viagem, o sistema deve utilizar as informações anteriores.
 
-Todas as funcionalidades descritas anteriormente deverá contemplar o CRUD e também os status (disponível ou ultilizado). Ao criar a viagem efetuar as devidas validações, onde só será possível criar ao compor uma viagem com todas as funcionalidades disponíveis.
+Todas as funcionalidades descritas anteriormente deverá contemplar o CRUD e também os status (disponível ou ultilizado). Ao criar a viagem efetuar as devidas validações, onde só será possível criar uma viagem com todas as funcionalidades (Carga, Rota, Motorista, Veículo) com o status de disponível.
 
 
 
