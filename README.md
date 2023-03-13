@@ -28,20 +28,20 @@ Para o back-end:
 Criar um pequeno sistema de TMS (sistema de gerenciamento de transporte), onde seja possível fazer uma viagem. O sistema deverá contemplar as seguintes funcionalidades: 
 
 * Carga  
-O sistema deverá permitir criar uma carga, onde que para cada carga deva ter os seguintes campos: código da carga, peso, produto, quantidade origem e destino.
+<br /> O sistema deverá permitir criar uma carga, onde que para cada carga deva ter os seguintes campos: código da carga, peso, produto, quantidade origem e destino.
 O código da carga deverá ser único, tendo sempre o prefixo de CA no começo de seu código, por exemplo : CA00001. 
 O peso da carga deverá ser em KG ou Toneladas, caso o peso passe de 1000 KG, converter para toneladas, sendo exibido para o usuário 1 ton.  
 
 * Motorista 
-O Sistema deverá permitir que seja criado um motorista, onde para tal será necessário os seguintes campos: 
+<br /> O Sistema deverá permitir que seja criado um motorista, onde para tal será necessário os seguintes campos: 
 Nome, CPF, Tipo de Habilitação (A, B, C, D ou E). 
 
 * Rota
-O sistema deve permitir a criação das rotas de um ponto A ao ponto B.  
+<br /> O sistema deve permitir a criação das rotas de um ponto A ao ponto B.  
 A rota deve conter uma descrição para sua identificação ao compor a viagem.
 
 * Veículo. 
-O sistema deverá também permitir a criação de um veículo. Onde seja possível identificar o modelo, placa e ano.  
+<br /> O sistema deverá também permitir a criação de um veículo. Onde seja possível identificar o modelo, placa e ano.  
 
 * viagem 
 <br /> o sistema deve permitir criar uma viagem onde que para tal deva ser utilizada as funcionalidades anteriores.
