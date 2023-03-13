@@ -15,9 +15,10 @@ Objetivo deste teste é avaliar questões como modelagem, aplicação de técnic
 * GitHub
 * .NET
 * ORACLE
-* Entity FrameWork
+* Entity Framework
 * ADO .NET
 * WCF.
+* Bootstrap
 
 # Atividade proposta.
 
