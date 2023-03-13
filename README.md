@@ -38,20 +38,25 @@ Nome, CPF, Tipo de Habilitação (A, B, C, D ou E).
 
 * Rota
 O sistema deve permitir a criação das rotas de um ponto A ao ponto B.  
+A rota deve conter uma descrição para sua identificação ao compor a viagem.
 
 * Veículo. 
 O sistema deverá também permitir a criação de um veículo. Onde seja possível identificar o modelo, placa e ano.  
 
-* Criar viagem 
-Para se criar uma viagem, o sistema deve utilizar as informações anteriores.
+* viagem 
+o sistema deve permitir criar uma viagem onde que para tal deva ser utilizada as funcionalidades anteriores.
+A viagem deve contem um código único para sua identificação.
 
 Todas as funcionalidades descritas anteriormente deverá contemplar o CRUD e também os status (disponível ou ultilizado). Ao criar a viagem efetuar as devidas validações, onde só será possível criar uma viagem com todas as funcionalidades (Carga, Rota, Motorista, Veículo) com o status de disponível.
 
-
+* O sistema deve permitir selecionar mais de uma carga por viagem.
+* O sistema deve ser capaz de exibir os detalhes da viagem. (motorista, rota e carga selecionada)
 
 Para o Front-end: 
 
 Já front end, o sistema deverá ter uma tela para cada funcionalidade descrita anteriormente, onde para cada tela, será necessário contemplar o crud, ter status e validações. 
+
+criar uma tela para realizar a criação da viagem ficando a criterio do desenvolvedor planejar e verificar a melhor forma de realizar o mesmo.
 
 # Critérios de avaliação
 
@@ -61,10 +66,11 @@ Entendimento de design patterns, Orientação a Objeto e outros conceitos relaci
 Uso de controle de versão.
 Ferramentas utilizadas.
 Reuso do código.
+Código performático.
 Comentários.
 Organização do código.
 Testes.
 
 # Processo de submissão
 
-O código deve ser disponibilidade no Git Hub com instruções de como rodar o projeto detalhadamente.
+O código deve ser disponibilidade no Git Hub com instruções detalhadas de como rodar o projeto detalhadamente.
