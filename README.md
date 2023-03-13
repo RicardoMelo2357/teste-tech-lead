@@ -62,14 +62,14 @@ criar uma tela para realizar a criação da viagem ficando a criterio do desenvo
 
 Caso o projeto entregue seja enviado com todos os critérios acima, serão levados em consideração também os seguintes conhecimentos:
 
-Entendimento de design patterns, Orientação a Objeto e outros conceitos relacionados.
-Uso de controle de versão.
-Ferramentas utilizadas.
-Reuso do código.
-Código performático.
-Comentários.
-Organização do código.
-Testes.
+* Entendimento de design patterns, Orientação a Objeto e outros conceitos relacionados.
+* Uso de controle de versão.
+* Ferramentas utilizadas.
+* Reuso do código.
+* Código performático.
+* Comentários.
+* Organização do código.
+* Testes.
 
 # Processo de submissão
 
