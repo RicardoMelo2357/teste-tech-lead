@@ -43,7 +43,7 @@ A rota deve conter uma descrição para sua identificação ao compor a viagem.
 * Veículo. 
 <br /> O sistema deverá também permitir a criação de um veículo. Onde seja possível identificar o modelo, placa e ano.  
 
-* viagem 
+* Viagem 
 <br /> o sistema deve permitir criar uma viagem onde que para tal deva ser utilizada as funcionalidades anteriores.
 A viagem deve contem um código único para sua identificação.
 
