@@ -10,14 +10,14 @@ Objetivo deste teste é avaliar questões como modelagem, aplicação de técnic
 
 # Requisitos.
 
-HTML 5
-JavaScript
-GitHub
-.NET
-ORACLE
-Entity FrameWork
-ADO .NET
-WCF.
+* HTML 5
+* JavaScript
+* GitHub
+* .NET
+* ORACLE
+* Entity FrameWork
+* ADO .NET
+* WCF.
 
 # Atividade proposta.
 
