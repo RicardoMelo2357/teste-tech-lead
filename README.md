@@ -28,7 +28,7 @@ Para o back-end:
 Criar um pequeno sistema de TMS (sistema de gerenciamento de transporte), onde seja possível fazer uma viagem. O sistema deverá contemplar as seguintes funcionalidades: 
 
 * Carga  
-<br /> O sistema deverá permitir criar uma carga, onde que para cada carga deva ter os seguintes campos: código da carga, peso, produto, quantidade origem e destino.
+O sistema deverá permitir criar uma carga, onde que para cada carga deva ter os seguintes campos: código da carga, peso, produto, quantidade origem e destino.
 O código da carga deverá ser único, tendo sempre o prefixo de CA no começo de seu código, por exemplo : CA00001. 
 O peso da carga deverá ser em KG ou Toneladas, caso o peso passe de 1000 KG, converter para toneladas, sendo exibido para o usuário 1 ton.  
 
