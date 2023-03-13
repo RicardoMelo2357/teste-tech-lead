@@ -44,7 +44,7 @@ A rota deve conter uma descrição para sua identificação ao compor a viagem.
 O sistema deverá também permitir a criação de um veículo. Onde seja possível identificar o modelo, placa e ano.  
 
 * viagem 
-o sistema deve permitir criar uma viagem onde que para tal deva ser utilizada as funcionalidades anteriores.
+<br /> o sistema deve permitir criar uma viagem onde que para tal deva ser utilizada as funcionalidades anteriores.
 A viagem deve contem um código único para sua identificação.
 
 Todas as funcionalidades descritas anteriormente deverá contemplar o CRUD e também os status (disponível ou ultilizado). Ao criar a viagem efetuar as devidas validações, onde só será possível criar uma viagem com todas as funcionalidades (Carga, Rota, Motorista, Veículo) com o status de disponível.
